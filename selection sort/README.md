@@ -1,4 +1,4 @@
-# selection sort 
+# Selection Sort 
 Selection sort is a simple sorting algorithm.  
 This sorting algorithm is an in-place comparison-based algorithm in which the list is divided into two parts,  
 the sorted part at the left end and the unsorted part at the right end.  
